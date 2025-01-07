@@ -1,0 +1,6 @@
+print("Name=Nate")
+print("age=3")
+print("current year=2025")
+print("birth year=2022")
+print("calculate age by minusing current year from birthyear")
+print("2025-2022=3")
